@@ -11,6 +11,29 @@
 
 ## ps 预算拉满 需要有github和社区贡献 虽然不是很多 也是一份心意不是~
 
+
+## 第一期项目说明 都是非常优秀的开源项目
+
+
+tushare [tushare项目](https://github.com/waditu/tushare)
+
+wondertrader [wondertrader项目](https://github.com/wondertrader/wondertrader)
+
+openctp [openctp项目](https://github.com/openctp/openctp)
+
+localctp [loaclctp项目](https://github.com/dearleeyoung/LocalCTP)
+
+tqsdk [tqsdk项目](https://github.com/shinnytech/tqsdk-python)
+
+akshare [akshare项目](https://github.com/akfamily/akshare)
+
+KlineChart[Klinechart项目](https://github.com/klinecharts/KLineChart)
+
+vnpy [vnpy项目](https://github.com/vnpy/vnpy)
+
+ctpbee [ctpbee项目](https://github.com/ctpbee/ctpbee)
+
+
 ### 背景与现状
 
 在当今金融科技飞速发展的时代，量化投资已成为金融市场的重要力量。然而，我们观察到以下现象：
