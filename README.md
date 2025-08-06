@@ -7,7 +7,7 @@
 
 只是不成熟的倡议, 但是我依然想发起这个事情, 起源在于我在做开源的过程中遇到的各种问题. 我准备拿出每年的carry的一部分作为基金会的固定投入, 作为大家为爱奉献的支撑, 当然本质上也试图想建立一个统一的协议, 让每个开源项目都可以互通有无实现最终我们对于二级市场的所有的想法. 本项目长期有效, 直至我们想达成的最终终点: "让每一份热爱都有应有的价值" 以下都是ai生成 大家看看就好
 
-## 初期倡议与仲裁于10.1日结束 有意向的同仁请踊跃报名 咱们issue见~
+
 
 ## ps 预算拉满 需要有github和社区贡献 虽然不是很多 也是一份心意不是~
 
@@ -36,6 +36,11 @@ ctpbee [ctpbee项目](https://github.com/ctpbee/ctpbee)
 easytrader [easytrader项目](https://github.com/shidenggui/easytrader)
 
 ctprs+openmdgateway [ctp2rs项目](https://github.com/pseudocodes/ctp2rs)
+
+
+## 第一期项目结束~ 开启第二期的项目报名啦  ~
+
+
 
 
 ### 背景与现状
