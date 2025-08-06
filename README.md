@@ -33,6 +33,8 @@ vnpy [vnpy项目](https://github.com/vnpy/vnpy)
 
 ctpbee [ctpbee项目](https://github.com/ctpbee/ctpbee)
 
+easytrader [easytrader项目](https://github.com/shidenggui/easytrader)
+
 
 ### 背景与现状
 
