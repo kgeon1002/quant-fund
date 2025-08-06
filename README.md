@@ -21,7 +21,7 @@ wondertrader [wondertrader项目](https://github.com/wondertrader/wondertrader)
 
 openctp [openctp项目](https://github.com/openctp/openctp)
 
-localctp [loaclctp项目](https://github.com/dearleeyoung/LocalCTP)
+localctp [localctp项目](https://github.com/dearleeyoung/LocalCTP)
 
 tqsdk [tqsdk项目](https://github.com/shinnytech/tqsdk-python)
 
